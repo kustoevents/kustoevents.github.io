@@ -1,0 +1,1 @@
+# kustoevents.github.io
