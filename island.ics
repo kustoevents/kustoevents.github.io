@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Kusto//Events//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bookclub-island-20261119@kustoevents
+DTSTAMP:20261025T160000Z
+DTSTART:20261119T153000Z
+DTEND:20261119T170000Z
+SUMMARY:Книжный клуб KUSTO: «Таинственный остров»
+LOCATION:Kusto\, Куйбышева 100
+DESCRIPTION:Обсуждаем «Таинственный остров» Жюля Верна. Регистрация заранее: @blogook. Вход — покупка напитка. Анонс: https://t.me/GlobePoolKusto/1203
+URL:https://t.me/GlobePoolKusto/1203
+BEGIN:VALARM
+TRIGGER:-PT2H
+ACTION:DISPLAY
+DESCRIPTION:Книжный клуб KUSTO: «Таинственный остров»
+END:VALARM
+END:VEVENT
+END:VCALENDAR
