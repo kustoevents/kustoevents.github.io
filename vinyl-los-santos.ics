@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Kusto//Vinyl Night//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:vinyl-los-santos-20261106@kustoevents
+DTSTAMP:20261102T161500Z
+SEQUENCE:0
+DTSTART:20261106T153000Z
+DTEND:20261106T170000Z
+SUMMARY:Вечер винила: Radio Los Santos
+LOCATION:Surf Coffee® × Kusto\, Куйбышева 100\, Самара
+GEO:53.190133;50.090418
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Куйбышева 100, С
+ амара";X-APPLE-RADIUS=70;X-TITLE="Surf Coffee® × Kusto":geo:53.1901
+ 33,50.090418
+DESCRIPTION:Слушаем пластинку со станции Radio Los
+  Santos из GTA San Andreas и говорим о том\, как звуч
+ ал Лос-Анджелес начала 90-х: Dr. Dre\, Ice Cube\, 2Pac
+ \, N.W.A\, Cypress Hill\, Eazy-E\, Too $hort.\n\nАнонс: https://t.me/
+ GlobePoolKusto/1228\nНа карте: https://2gis.ru/samara/firm/70000001
+ 082424572
+URL:https://t.me/GlobePoolKusto/1228
+BEGIN:VALARM
+TRIGGER:-PT2H
+ACTION:DISPLAY
+DESCRIPTION:Вечер винила: Radio Los Santos
+END:VALARM
+END:VEVENT
+END:VCALENDAR
